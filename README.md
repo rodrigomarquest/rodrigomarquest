@@ -28,6 +28,9 @@ Pandas • NumPy • Scikit-learn • TensorFlow • PyTorch
 - 🧠 Wearable Data Pipelines  
 - 🌿 Green AI & Ethical Tech
 
+  ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-blue)
+
+
 ## 📈 GitHub Stats
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigomarquest&show_icons=true&theme=calm)
