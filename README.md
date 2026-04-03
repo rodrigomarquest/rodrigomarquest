@@ -1,6 +1,6 @@
 # 🌿 Rodrigo Marques Teixeira
 
-**AI Engineer | MSc in Artificial Intelligence for Business (NCI, Dublin)**  
+**Building AI-Native Data & ML Systems in the Cloud | MSc in Artificial Intelligence for Business (NCI, Dublin)**  
 *Where Green AI meets Human Purpose.*
 
 Welcome to my GitHub!  
